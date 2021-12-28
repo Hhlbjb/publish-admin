@@ -1,0 +1,6 @@
+/* 设置全局样式 */
+body {
+  background-image: url(../assets/desktop1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
